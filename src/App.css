@@ -1,0 +1,24 @@
+.App {
+   text-align: center;
+}
+
+.clear-styles{
+ h1{
+   color: black;
+   background-color: white;
+ }
+   
+}
+
+.clearable-component {
+   background-color: red;
+   display: flex;
+   flex-direction: column;
+   color: blue;
+ }
+
+  
+  
+  
+
+  
